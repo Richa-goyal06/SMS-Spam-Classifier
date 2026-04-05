@@ -2,7 +2,7 @@
 
 This Project is done using Natural Language Processing (NLP) Techniques. Python libraries like Pandas (for Data Cleaning/Handling), NLTK, TextBlob, Scikit-learn (for text preprocessing) and Naive Bayes (for model building)
 ## Dataset 
-- <a href="https://github.com/Richa-goyal06/Kindle-Sentiment-Analysis-/blob/main/all_kindle_review.csv.xls">Dataset</a>
+- <a href="https://github.com/Richa-goyal06/SMS-Spam-Classifier/blob/main/spam.csv">Dataset</a>
 
 ## Pipeline
 1.Exploratory Data Analysis (EDA)
